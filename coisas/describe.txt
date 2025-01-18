@@ -1,0 +1,13 @@
+Api para sistema de login
+
+O que e
+
+E uma api que gerencia usuarios com express e auth
+
+-- Capacidade
+
+Crud
+Autenticaçao de rotas
+Usuario deve apagar os registros quando logar como admin
+
+Ferramenta necessaria: nodejs, express, typescript
